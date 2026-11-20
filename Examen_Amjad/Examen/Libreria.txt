@@ -1,0 +1,8 @@
+public class Librería {
+
+public static main(String[] args) {
+
+
+}
+
+}
